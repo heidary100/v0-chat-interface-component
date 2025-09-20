@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cbt-breathing-1",
+    "type": "CBT technique",
+    "text": "4-7-8 Breathing Exercise: Inhale through your nose for 4 counts, hold your breath for 7 counts, then exhale through your mouth for 8 counts. This technique activates the parasympathetic nervous system and helps reduce anxiety by slowing your heart rate and promoting relaxation."
+  },
+  {
+    "id": "crisis-resource-1",
+    "type": "crisis resource",
+    "text": "National Suicide Prevention Lifeline: 988"
+  },
+  {
+    "id": "diagnostic-gad",
+    "type": "diagnostic criteria",
+    "text": "Generalized Anxiety Disorder (GAD): Excessive anxiety and worry occurring more days than not for at least 6 months. Symptoms include restlessness, fatigue, difficulty concentrating, irritability, muscle tension, and sleep disturbances. The anxiety is difficult to control and causes significant distress or impairment."
+  },
+  {
+    "id": "diagnostic-mdd",
+    "type": "diagnostic criteria",
+    "text": "Major Depressive Disorder (MDD): Presence of at least 5 symptoms for 2+ weeks, including depressed mood or loss of interest/pleasure. Additional symptoms may include significant weight changes, sleep disturbances, fatigue, feelings of worthlessness, concentration difficulties, and recurrent thoughts of death."
+  },
+  {
+    "id": "cbt-grounding-1",
+    "type": "CBT technique",
+    "text": "5-4-3-2-1 Grounding Technique: Identify 5 things you can see, 4 things you can touch, 3 things you can hear, 2 things you can smell, and 1 thing you can taste. This mindfulness exercise helps redirect attention away from anxious thoughts and grounds you in the present moment."
+  },
+  {
+    "id": "crisis-resource-2",
+    "type": "crisis resource",
+    "text": "Crisis Text Line: Text HOME to 741741 for free, 24/7 crisis support via text message"
+  },
+  {
+    "id": "cbt-thought-challenging",
+    "type": "CBT technique",
+    "text": "Thought Challenging: When experiencing negative thoughts, ask yourself: Is this thought realistic? What evidence supports or contradicts it? What would I tell a friend in this situation? This technique helps identify and modify cognitive distortions that contribute to emotional distress."
+  },
+  {
+    "id": "diagnostic-ptsd",
+    "type": "diagnostic criteria",
+    "text": "Post-Traumatic Stress Disorder (PTSD): Develops after exposure to actual or threatened death, serious injury, or sexual violence. Symptoms include intrusive memories, avoidance of trauma-related stimuli, negative alterations in mood/cognition, and alterations in arousal/reactivity lasting more than one month."
+  },
+  {
+    "id": "crisis-resource-3",
+    "type": "crisis resource",
+    "text": "SAMHSA National Helpline: 1-800-662-4357 - Free, confidential, 24/7 treatment referral service for mental health and substance use disorders"
+  },
+  {
+    "id": "cbt-progressive-relaxation",
+    "type": "CBT technique",
+    "text": "Progressive Muscle Relaxation: Starting with your toes, tense each muscle group for 5 seconds, then release and notice the contrast. Work your way up through your body. This technique helps reduce physical tension and promotes awareness of the difference between tension and relaxation."
+  },
+  {
+    "id": "self-care-sleep",
+    "type": "self-care strategy",
+    "text": "Sleep Hygiene: Maintain a consistent sleep schedule, create a relaxing bedtime routine, avoid screens 1 hour before bed, keep your bedroom cool and dark, and limit caffeine after 2 PM. Quality sleep is fundamental to mental health and emotional regulation."
+  },
+  {
+    "id": "warning-signs-suicide",
+    "type": "warning signs",
+    "text": "Suicide Warning Signs: Talking about wanting to die, feeling hopeless or trapped, extreme mood swings, withdrawing from activities, giving away possessions, increased substance use, and expressing feelings of being a burden. Take all warning signs seriously and seek immediate help."
+  }
+]
